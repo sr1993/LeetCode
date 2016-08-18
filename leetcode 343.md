@@ -1,9 +1,7 @@
 ### 题目链接：
 [Integer Break][1]
-
-  [1]: https://leetcode.com/problems/integer-break/
-  - - -
-  ### 参考代码：
+[1]: https://leetcode.com/problems/integer-break/
+### 参考代码：
 ``` java
 public class Solution {
     public int integerBreak(int n) {
