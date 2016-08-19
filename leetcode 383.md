@@ -9,7 +9,7 @@
 两个26空间大小的两个数组，分别保存各自每个字母出现的次数，要满足条件，只要每个字母后者出现的次数大
 于或等于前者出现次数就可以了。
 ### 参考代码:
-```java?linenums
+```java
 public class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
         long[] ori = new long[26];
