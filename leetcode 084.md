@@ -146,4 +146,4 @@ public class Solution {
 
 
   [1]:https://leetcode.com/problems/largest-rectangle-in-histogram/
-  [2]: ./images/2016-09-17_131421.JPG
+  [2]: http://articles.leetcode.com/wp-content/uploads/2012/04/histogram_area.png
