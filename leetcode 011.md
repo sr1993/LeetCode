@@ -31,7 +31,7 @@ O(n^2)复杂度的方法是很容易想到的，但我们要以O(n)的复杂度�
 [Editorial Solution][2]
 [An easy way to understand the algorithm][3]
 
-### 参考代码1:
+### 参考代码:
 ```java
 public class Solution {
     public int maxArea(int[] height) {
